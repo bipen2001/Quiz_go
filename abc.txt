@@ -1,0 +1,8 @@
+- timer is a struct which sends a messge to the channel C when timer expires.
+- we can break the statements using labels as i did with problemloop bcz there if i use normal break it will only come outside select statements
+- select statements wait for any condition to be true
+
+
+- pipe and ,
+- yes sor no
+- random and each ques will have time of 1 minute
